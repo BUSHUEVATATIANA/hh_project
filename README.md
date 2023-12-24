@@ -28,8 +28,8 @@ Homework_2
 
 ### Краткая информация о данных
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-[Файл с исходными данными](https://drive.google.com/file/d/1rvKzExPzd3msW_Cu43mJWUTrPrrAWgJD/view?usp=sharing);
+:arrow_up:[к оглавлению][.README.md#Описание-проекта]
+[Файл с исходными данными](.https://drive.google.com/file/d/1nSjphNi4M2YRC4JSLWkXzWn5J0o9uZl5/view?usp=share_link);
 [Файл с дополнительными данными](https://drive.google.com/file/d/1m0rJfvJrFvbB1x3BGCGHkEei-ce2F4JJ/view?usp=sharing);
 
 ### Этапы работы над проектом  
@@ -37,19 +37,22 @@ Homework_2
 2.Преобразование данных
 3.Исследование зависимостей в данных
 4.Очистка данных
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению][def2]
 
 
 ### Результаты:  
 Очищенный данные, готовые для построения модели,автоматически определяляющие примерный уровень заработной платы, подходящей пользователю.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению][def2]
 
 
 ### Выводы:  
 Поставленная задача была выполнена.
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению][def2]
 
 [def]: hh_dataset.ipynb
 
 >>>>>>> 61fdfb5 ( Initial commit)
+
+
+[def2]: .README.md#Оглавление
